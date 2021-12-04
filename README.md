@@ -1,10 +1,5 @@
-<h1 align="center">
-<br>
-  <img src="https://raw.githubusercontent.com/thedaviddias/Front-End-Checklist/master/src/img/banners/logo-front-end-checklist.jpg" alt="Front-End Checklist" width="170">
-  <br>
-    <br>
+<h1>
   Front-End Checklist
-  <br>
 </h1>
 
 <h4 align="center">The Front-End Checklist is an exhaustive list of all elements you need to have / to test before launching your website / HTML page to production.</h4>
